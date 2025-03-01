@@ -1,0 +1,15 @@
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\bin\Debug\net8.0\task 1_2_8.exe
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\bin\Debug\net8.0\task 1_2_8.deps.json
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\bin\Debug\net8.0\task 1_2_8.runtimeconfig.json
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\bin\Debug\net8.0\task 1_2_8.dll
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\bin\Debug\net8.0\task 1_2_8.pdb
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\obj\Debug\net8.0\task 1_2_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\obj\Debug\net8.0\task 1_2_8.AssemblyInfoInputs.cache
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\obj\Debug\net8.0\task 1_2_8.AssemblyInfo.cs
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\obj\Debug\net8.0\task 1_2_8.csproj.CoreCompileInputs.cache
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\obj\Debug\net8.0\task 1_2_8.sourcelink.json
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\obj\Debug\net8.0\task 1_2_8.dll
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\obj\Debug\net8.0\refint\task 1_2_8.dll
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\obj\Debug\net8.0\task 1_2_8.pdb
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\obj\Debug\net8.0\task 1_2_8.genruntimeconfig.cache
+C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_8\obj\Debug\net8.0\ref\task 1_2_8.dll
