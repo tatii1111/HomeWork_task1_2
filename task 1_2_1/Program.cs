@@ -10,10 +10,10 @@ public static class Program
         Console.Write("b = ");
         double b = Convert.ToDouble(Console.ReadLine());
         if (a > b)
-            Console.WriteLine(">");
+            Console.WriteLine("Результат: >");
         else if (a < b)
-            Console.WriteLine("<");
+            Console.WriteLine("Результат: <");
         else
-            Console.WriteLine("=");
+            Console.WriteLine("Результат: =");
     }
 }
