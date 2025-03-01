@@ -12,4 +12,3 @@ C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_1\obj\Debug\net8.0\refi
 C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_1\obj\Debug\net8.0\task 1_2_1.pdb
 C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_1\obj\Debug\net8.0\task 1_2_1.genruntimeconfig.cache
 C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_1\obj\Debug\net8.0\ref\task 1_2_1.dll
-C:\Users\mvideo\RiderProjects\Homework_tema_1_2\task 1_2_1\obj\Debug\net8.0\task 1_2_1.sourcelink.json
