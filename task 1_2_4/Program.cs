@@ -14,10 +14,7 @@ class Program
         Console.Write("c = ");
         double c = Convert.ToDouble(Console.ReadLine());
         if ((a == b) || (b == c) || (c == a))
-        {
-            Process.Start(Process.GetCurrentProcess().MainModule.FileName);
-            Environment.Exit(0);
-        }
+            return;
         else if ((a > b) && (b > c))
             Console.WriteLine(b);
         else if ((a > c) && (c > b))
